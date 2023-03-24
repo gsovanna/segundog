@@ -5,4 +5,4 @@ Marianna - 25
 
 
 # Descrição: 
-É um site para incentivar as pessoas a terem uma alimentação saudável.
+É um site para incentivar as pessoas a se alimentar saudável.
