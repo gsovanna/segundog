@@ -24,5 +24,11 @@
     font-size: 100%;
 }
 .Onívora{
-    background-image: linear-gradient(#B6D96C,#4F7302);
+    background-image: linear-gradient(#B6D96C,#72A603;
+}
+.Vegetarianismo{
+    background-image: linear-gradient(#72A603,#4F7302);
+}
+.Veganismo{
+    background-image: linear-gradient(#4F7302,#274001);
 }
