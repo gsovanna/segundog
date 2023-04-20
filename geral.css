@@ -25,11 +25,13 @@
 }
 .Onívora{
     background-image: linear-gradient(#B6D96C,#72A603);
-    display: block;
+    display: flex;
 }
 .Vegetarianismo{
     background-image: linear-gradient(#72A603,#72A603);
+    display: flex;
 }
 .Veganismo{
     background-image: linear-gradient(#72A603,#4F7302);
+    display: flex;
 }
