@@ -27,6 +27,7 @@
     background-image: linear-gradient(#B6D96C,#72A603);
     display: flex;
     justify-content: baseline;
+    align-items: baseline;
 }
 .Onívora-div-conteudo{
     width: 25%;
@@ -35,6 +36,7 @@
     background-image: linear-gradient(#72A603,#72A603);
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 .Vegetarianismo-div-conteudo{
     width: 25%;
@@ -43,6 +45,7 @@
     background-image: linear-gradient(#72A603,#4F7302);
     display: flex;
     justify-content: right;
+    align-items: right;
 }
 .Veganismo-div-conteudo{
     width: 25%;
