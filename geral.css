@@ -27,11 +27,20 @@
     background-image: linear-gradient(#B6D96C,#72A603);
     display: flex;
 }
+.Onívora-div-conteudo{
+    width: 25%;
+}
 .Vegetarianismo{
     background-image: linear-gradient(#72A603,#72A603);
     display: flex;
 }
+.Vegetarianismo-div-conteudo{
+    width: 50%;
+}
 .Veganismo{
     background-image: linear-gradient(#72A603,#4F7302);
     display: flex;
+}
+.Veganismo-div-conteudo{
+    width: 75%;
 }
