@@ -26,7 +26,7 @@
 .Onívora{
     background-image: linear-gradient(#B6D96C,#72A603);
     display: flex;
-    justify-content: right;
+    justify-content: baseline;
 }
 .Onívora-div-conteudo{
     width: 25%;
@@ -42,7 +42,7 @@
 .Veganismo{
     background-image: linear-gradient(#72A603,#4F7302);
     display: flex;
-    justify-content: baseline;
+    justify-content: right;
 }
 .Veganismo-div-conteudo{
     width: 25%;
